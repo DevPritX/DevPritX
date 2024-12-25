@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pritam Priyanshu Satapathy</h1>
+<h1 align="center">Hi 👋, I'm Pritam</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 - 🔭 I’m currently working on [People Managing People WebApp Clone](https://github.com/DevPritX/peoplemanagingpeople_clone)
